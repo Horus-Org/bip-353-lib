@@ -5,5 +5,5 @@ const generateBIP21URI = (address, amount, label) => {
     return uri.toString();
   };
   
-  const uri = generateBIP21URI('your-bitcoin-address', '0.001', 'Payment for services');
+  const uri = generateBIP21URI('bitcoin_adress', '0.001', 'Payment for services');
   
