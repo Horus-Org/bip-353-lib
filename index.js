@@ -1,5 +1,5 @@
+
 const dns = require('dns');
-const BIP353 = require('bip353');
 class BIP353 {
   constructor() {
     this.dns = d
