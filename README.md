@@ -1,5 +1,7 @@
 # BIP 353 React Native ⚡
 
+⚠️**Alpha Software**
+
 React Native to BIP-353 (DNS Payments)
 
 ## Installation
