@@ -1,0 +1,27 @@
+{
+  "name": "bip-353-lib",
+  "version": "1.0.0",
+  "description": "React Native for BIP-353 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horus-Org/bip-353-lib.git"
+  },
+  "keywords": [
+    "bip",
+    "bitcoin"
+  ],
+  "author": "horus org",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Horus-Org/bip-353-lib/issues"
+  },
+  "homepage": "https://github.com/Horus-Org/bip-353-lib#readme",
+  "dependencies": {
+    "react-native-crypto": "^2.2.0",
+    "react-native-url-polyfill": "^2.0.0"
+  }
+}
