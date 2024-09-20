@@ -1,9 +1,8 @@
 
 const dns = require('dns');
-class BIP353 {
+class dns {
   constructor() {
-    this.dns = d
-    ns;
+    this.dns = dns;
   }
 }
 const resolveDNSPayment = (domain) => {
