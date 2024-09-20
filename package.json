@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React Native for BIP-353 ",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "jest"
   },
