@@ -20,5 +20,5 @@ const result = await Bip353.multiply(3, 7);
 ## Roadmap
 
 - [X] Core functions
-- [ ] NPM
+- [x] NPM
 - [x] FOSS
