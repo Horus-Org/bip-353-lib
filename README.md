@@ -5,7 +5,7 @@
 
 ⚠️**Alpha Software**
 
-React Native to BIP-353 (DNS Payments)
+React Native for BIP-353 (DNS Payments)
 
 ## Installation
 ```bash
