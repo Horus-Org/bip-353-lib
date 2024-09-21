@@ -21,4 +21,4 @@ const result = await Bip353.multiply(3, 7);
 
 - [X] Core functions
 - [ ] NPM
-- [ ] FOSS
+- [x] FOSS
