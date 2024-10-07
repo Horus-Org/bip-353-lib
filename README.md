@@ -23,3 +23,4 @@ const result = await Bip353.multiply(3, 7);
 - [x] NPM
 - [x] FOSS
 - [x] Examples
+- [ ] Demo project
