@@ -7,8 +7,6 @@
 
 React Native for BIP-353 (DNS Payments)
 
-Here's a sample "About" section for a README file for a React Native project related to BIP-353 (Bitcoin Improvement Proposal 353). You can modify it according to your project's specific details or objectives.
-
 # About
 
 ## BIP-353 React Native
