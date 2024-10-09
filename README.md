@@ -9,7 +9,7 @@ React Native for BIP-353 (DNS Payments)
 
 ### About
 
-## BIP-353 React Native
+### BIP-353 React Native
 
 BIP-353 introduces a new standard for Bitcoin addresses that enhances privacy and usability by enabling native support for Address Reuse. This project is a React Native implementation aimed at providing developers with an easy-to-use library for integrating BIP-353 functionality into mobile applications.
 
