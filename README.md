@@ -7,7 +7,7 @@
 
 React Native for BIP-353 (DNS Payments)
 
-# About
+### About
 
 ## BIP-353 React Native
 
