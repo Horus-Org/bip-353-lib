@@ -1,4 +1,3 @@
-
 const dns = require('dns');
 class dns {
   constructor() {
