@@ -69,3 +69,4 @@ This project is licensed under the MIT License.
 - [x] FOSS
 - [x] Examples
 - [ ] Demo project
+- [ ] BOLT12 compatibility
