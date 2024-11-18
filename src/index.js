@@ -21,3 +21,48 @@ resolveDNSPayment('example.com').then(paymentInfo => {
 }).catch(error => {
   console.error('DNS resolution error:', error);
 });
+
+class BOLT12 {
+  constructor(paymentInfo) {
+    this.paymentInfo = paymentInfo;
+  }
+
+  getPaymentInfo() {
+    return {
+      error: String,
+      suggestedAmounts: [],
+      minSendable: String,
+      maxSendable: String,
+      minFee: String,
+      maxFee: String,
+      feeGranularity: String,
+      timelockDelta: String,
+      description: String,
+      descriptionHash: String,
+      fallbackAddress: String,
+      paymentHash: String,
+      paymentSecret: String,
+      features: [],
+      tags: [],
+      minFinalCltvExpiry: String,
+      maxHtlcValueInFlightMsat: String,
+      maxAcceptedHtlcs: String,
+      channelReserve: String,
+      htlcMinimumMsat: String,
+      toSelfDelay: String,
+      lastUpdate: String,
+      state: String,
+      channelFlags: String,
+      localBalance: String,
+      remoteBalance: String,
+      unsettledBalance: String,
+      totalSatoshisSent: String,
+      totalSatoshisReceived: String,
+      numUpdates: String,
+      pendingHtlcs: String,
+      csvDelay: String,
+      maxCltvExpiry: String,
+      htlcs: [],
+    };
+  }
+}
