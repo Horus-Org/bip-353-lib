@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 - [x] NPM
 - [x] FOSS
 - [x] Examples
-- [ ] Demo project
+- [x] Demo project
 - [ ] BOLT12 compatibility
