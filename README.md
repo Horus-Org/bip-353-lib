@@ -64,9 +64,4 @@ This project is licensed under the MIT License.
 ---
 ## Roadmap
 
-- [X] Core functions
-- [x] NPM
-- [x] FOSS
-- [x] Examples
-- [x] Demo project
-- [x] BOLT12 compatibility
+- [ ] Fix bugs found
