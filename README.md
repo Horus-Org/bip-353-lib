@@ -62,11 +62,3 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 This project is licensed under the MIT License.
 
 ---
-## Roadmap
-
-- [X] Core functions
-- [x] NPM
-- [x] FOSS
-- [x] Examples
-- [x] Demo project
-- [x] BOLT12 compatibility
