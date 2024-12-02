@@ -1,6 +1,6 @@
 {
   "name": "bip-353-lib",
-  "version": "1.0.2-alpha",
+  "version": "1.0.3-alpha",
   "description": "React Native for BIP-353 ",
   "main": "index.js",
   "bip21": "bip21.js",
