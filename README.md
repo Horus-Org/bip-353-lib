@@ -29,7 +29,6 @@ To install the BIP-353 library, use npm or yarn:
 ```bash
 npm install bip-353-react-native
 ```
-
 or
 
 ```bash
