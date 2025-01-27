@@ -65,3 +65,4 @@ This project is licensed under the MIT License.
 ## Roamdmap
 
 - [ ] Beta software
+- [ ] Out of beta
