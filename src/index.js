@@ -66,3 +66,9 @@ class BOLT12 {
     };
   }
 }
+
+class BOLT12Payment {
+  constructor(paymentInfo) {
+    this.paymentInfo = paymentInfo;
+  }
+}
