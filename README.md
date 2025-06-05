@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 - [ ] Beta software
 - [ ] Out of beta
-- [ ] React 19.1
+- [x] React 19.1
