@@ -28,7 +28,7 @@
     "react-native-url-polyfill": "^2.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.13",
+    "@types/jest": "^30.0.0",
     "jest": "^30.0.0",
     "react": "19.1.0",
     "react-native": "^0.80.0",
