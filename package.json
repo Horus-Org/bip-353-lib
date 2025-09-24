@@ -25,7 +25,7 @@
     "bip21": "^3.0.0",
     "elliptic": "^6.6.1",
     "react-native-crypto": "^2.2.1",
-    "react-native-url-polyfill": "^2.0.0"
+    "react-native-url-polyfill": "^3.0.0"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
