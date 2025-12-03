@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
-    "react": "19.2.0",
+    "react": "19.2.1",
     "react-native": "^0.82.1",
     "ts-jest": "^29.4.5"
   }
